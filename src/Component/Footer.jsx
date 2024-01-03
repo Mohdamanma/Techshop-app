@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom'
 
 function Footer () {
   return (
-    <div>
-      <footer class="p-4 bg-black  sm:p-6 bg-opacity-75">
-    <div class= "max-w-screen-xl">
+    <div >
+      <footer className="p-4  bg-black  sm:p-6 bg-opacity-75">
+    <div class= "max-w-screen-xl ">
         <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">
                 <a href="https://flowbite.com" class="flex items-center">
