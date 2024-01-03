@@ -8,7 +8,7 @@ function Navbar() {
                 <div class="w-full flex flex-wrap items-center justify-between mx-auto p-4">
                     <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0oI1lAEHqMxOMqcALlNcJ2n4VbjjTA8AZg&usqp=CAU" class="h-8" alt="Flowbite Logo" />
-                        <span class="self-center text-2xl font-semibold whitespace-nowrap text-red-900">Electronic</span>
+                        <h1 class="self-center text-2xl font-semibold whitespace-nowrap text-red-900">Electro</h1><span class="self-center text-2xl font-semibold whitespace-nowrap text-yellow-500">Lux</span>
                     </a>
                    
                     <div class="hidden w-full md:block md:w-auto" id="navbar-dropdown">
